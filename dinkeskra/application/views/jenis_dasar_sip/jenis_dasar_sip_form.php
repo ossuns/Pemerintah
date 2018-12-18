@@ -4,7 +4,7 @@
         <div class="form-group">
             <tr>
                 <td>
-                    <label for="varchar">Jenis Dasar Sip <?php echo form_error('jenis_dasar_sip') ?></label>
+                    <label for="varchar">Jenis Dasar SIP <?php echo form_error('jenis_dasar_sip') ?></label>
                 </td>
                 <td>
                     <input type="text" class="form-control" name="jenis_dasar_sip" id="jenis_dasar_sip" placeholder="Jenis Dasar Sip" value="<?php echo $jenis_dasar_sip; ?>" />
